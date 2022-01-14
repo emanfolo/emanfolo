@@ -13,6 +13,8 @@ Process: Test Driven Development, SOLID principles, clean code practices for sca
 Working Practices: Agile methodologies (Pairing, Scrum, Sprints, Stand-ups and Retros) 
 Currently Learning: Data Structures and Algorithms 
 
+### [Check out my CV!](https://github.com/emanfolo/cv)
+
 ### Portfolio projects
 
 Flitter - Personal full-stack Twitter clone, with core features such as tweets, replies, retweets, likes, notifications, hashtags, followers and trending topics.
