@@ -25,11 +25,11 @@ Acebook - Group full-stack Facebook clone with core features such as posts, like
 
 ### Skills 
 
-Exceptional written and verbal communication skills
-Natural analytical problem solver
-Excellent ability to perform under pressure
-Strong initiative that allows me to provide value whilst learning 
-Able to work both independently and collaboratively 
+- Exceptional written and verbal communication skills
+- Natural analytical problem solver
+- Excellent ability to perform under pressure
+- Strong initiative that allows me to provide value whilst learning 
+- Able to work both independently and collaboratively 
 
 <!--
 **emanfolo/emanfolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
