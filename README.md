@@ -6,12 +6,12 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 
 ### Tech Stack
 
-Front-end: Typescript, Javascript, Next.js, React, HTML, CSS, Material UI.
-Back-end: Node.js, Express.js, Ruby, Rails, SQL.
-Testing: Jest, Cypress, Rspec. 
-Process: Test Driven Development, SOLID principles, clean code practices for scalable projects
-Working Practices: Agile methodologies (Pairing, Scrum, Sprints, Stand-ups and Retros) 
-Currently Learning: Data Structures and Algorithms 
+- Front-end: Typescript, Javascript, Next.js, React, HTML, CSS, Material UI.
+- Back-end: Node.js, Express.js, Ruby, Rails, SQL.
+- Testing: Jest, Cypress, Rspec. 
+- Process: Test Driven Development, SOLID principles, clean code practices for scalable projects
+- Working Practices: Agile methodologies (Pairing, Scrum, Sprints, Stand-ups and Retros) 
+- Currently Learning: Data Structures and Algorithms 
 
 ### [Check out my CV!](https://github.com/emanfolo/cv)
 
