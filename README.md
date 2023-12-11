@@ -6,22 +6,22 @@ I am a highly motivated self-starter with a keen interest in web development. I 
 
 ### Tech Stack
 
-- Front-end: Typescript, Javascript, Next.js, React, HTML, CSS, Material UI.
-- Back-end: Node.js, Express.js, Ruby, Rails, SQL.
+- Front-end: Typescript, Javascript, Next.js, React, HTML, CSS, Tailwind Css.
+- Back-end: Node.js, Firebase, Express.js, Ruby, Rails, SQL, Python, Flask.
 - Testing: Jest, Cypress, Rspec. 
 - Process: Test Driven Development, SOLID principles, clean code practices for scalable projects
 - Working Practices: Agile methodologies (Pairing, Scrum, Sprints, Stand-ups and Retros) 
 - Currently Learning: Data Structures and Algorithms 
 
-### [Check out my CV!](https://github.com/emanfolo/cv)
 
 ### Portfolio projects
 
-Flitter - Personal full-stack Twitter clone, with core features such as tweets, replies, retweets, likes, notifications, hashtags, followers and trending topics.
+MoodSync
 
-Mealstack - Group mealplan application project which allows users to select or autogenerate mealplans to meet their nutritional needs
-
-Acebook - Group full-stack Facebook clone with core features such as posts, likes, comments and profiles
+- Mood Sync is a web application that utilizes OpenAI's 3.5 turbo natural language processor to provide users playlists based on their current mood.
+- Users provide a short description of their mood, and the application generates variables such as valence, energy, and danceability.
+- These variables are then used to recommend a playlist using the Spotify emotional categorization system.
+- The project's main goals are to reinforce concepts in language models, serverless functions, and server-side rendering.
 
 ### Skills 
 
